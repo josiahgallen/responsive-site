@@ -162,11 +162,7 @@ footer {
 
 	}
 
-@media screen and (min-width: 29.875em) {
-
-	body {
-		font-size: 1.3em;
-	}
+@media screen and (min-width: 33.19em) {
 
 	header {
 		text-align: left;
@@ -187,7 +183,31 @@ footer {
 	.cost {
 		font-size: 8em;
 	}
+}
 
+@media screen and (min-width: 53.28em) {
 
+	.price-option {
+		display: inline-block;
+		height: 19.6875em;
+		width: 32.9%;
+		box-sizing: border-box;
+	}
+	
+	.para {
+		overflow: hidden;
+		margin-top: 4em;
 
+		.b {
+			color: black;
+		}
+
+		section {
+			float: left;
+			width: 50%;
+			padding: 4em 2em;
+			box-sizing: border-box;
+		}
+
+	}
 }
