@@ -491,3 +491,11 @@ footer {
       width: 50%;
       padding: 4em 2em;
       box-sizing: border-box; } }
+
+@media screen and (min-width: 67.88em) {
+  .para {
+    width: 62.5em;
+    margin: 0 auto; }
+  .overallcost {
+    width: 65.625em;
+    margin: 0 auto; } }
