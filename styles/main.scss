@@ -161,3 +161,33 @@ footer {
 	}
 
 	}
+
+@media screen and (min-width: 29.875em) {
+
+	body {
+		font-size: 1.3em;
+	}
+
+	header {
+		text-align: left;
+
+		nav {
+			display: inline-block;
+		}
+
+		div {
+			text-align: center;
+			font-size: 4em;		}
+	}
+
+	.plan {
+		letter-spacing: .4em;
+	}
+
+	.cost {
+		font-size: 8em;
+	}
+
+
+
+}

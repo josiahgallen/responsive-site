@@ -461,3 +461,18 @@ footer {
     color: #dcdcdc;
     text-decoration: underline;
     margin-bottom: 1em; }
+
+@media screen and (min-width: 29.875em) {
+  body {
+    font-size: 1.3em; }
+  header {
+    text-align: left; }
+    header nav {
+      display: inline-block; }
+    header div {
+      text-align: center;
+      font-size: 4em; }
+  .plan {
+    letter-spacing: .4em; }
+  .cost {
+    font-size: 8em; } }
