@@ -443,6 +443,8 @@ header {
 .para {
   text-align: left;
   padding: 0 2em; }
+  .para div:first-child {
+    color: #111111; }
   .para div {
     letter-spacing: .3em;
     font-size: 1.2em;

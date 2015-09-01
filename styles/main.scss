@@ -136,6 +136,11 @@ header {
 	text-align: left;
 	padding: 0 2em;
 
+	div:first-child {
+		//margin-top: 5em;
+		color: $black;
+	}
+
 	div {
 		letter-spacing: .3em;
 		font-size: 1.2em;
